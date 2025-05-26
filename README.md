@@ -18,7 +18,7 @@
 
 ###
 
-<h6 align="left">✨ Estou criando bugs e erros desde 2023!<br>📚 Cursando graduação na FIEL e também fazendo um curso de Java - Bradesco<br>🎯 Objetivo: Ingressar na área de Banco de Dados ou Desenvolvimento Java<br>🎲 Curiosidade: toco 4 instrumentos e sou péssimo no valorant</h6>
+<h6 align="left">✨ Estou criando bugs e erros desde 2023!<br>📚 Cursando graduação na FIEL e também fazendo um curso de Java - Bradesco<br>🎯 Objetivo: Ingressar na área de Banco de Dados ou Desenvolvimento Back-End<br>🎲 Curiosidade: toco 4 instrumentos e sou péssimo no valorant</h6>
 
 ###
 

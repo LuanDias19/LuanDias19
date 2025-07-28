@@ -33,10 +33,7 @@
   </a>
   <a href="https://www.instagram.com/luandias_19/?next=%2F" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a><br>
-  <a href="[https://www.instagram.com/luandias_19/?next=%2F](https://github.com/LuanDias19/LuanDias19)" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  </a>  
+  </a><br> 
 </div>
 
 ###

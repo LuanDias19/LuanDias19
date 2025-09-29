@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Primeiramente Bom dia!<br>Me chamo Luan Dias, tenho 18 anos e um sonho! Entrar na área de TI.</p>
+<p align="center">Primeiramente Bom dia!<br>Me chamo Luan Dias, tenho 19 anos e um sonho, entrar na área de TI.</p>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="left">Uso essas plataformas</h2>
+<h2 align="left">Utilizo essas plataformas</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -73,6 +73,6 @@
 
 ###
 
-<h3 align="center">____________________________________________________<br>É isso! Se quiser me contratar eu agradeço! 👍😁<br>____________________________________________________</h3>
+<h3 align="center">____________________________________________________<br>É isso! Entre ewm contato!! 😁👍<br>____________________________________________________</h3>
 
 ###
